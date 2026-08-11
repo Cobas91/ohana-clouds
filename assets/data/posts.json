@@ -1,0 +1,20 @@
+[
+  {
+    "id": "2026-08-willkommen",
+    "date": "2026-08-11",
+    "title": "Aloha und herzlich willkommen!",
+    "pinned": false,
+    "image": "",
+    "image_alt": "",
+    "body": "Schön, dass du da bist! Hier im Bereich „Aktuelles“ halten wir dich auf dem Laufenden – zum Beispiel über neue Produkte, geänderte Öffnungszeiten oder Aktionen im Laden. Schau gern regelmäßig vorbei."
+  },
+  {
+    "id": "2026-07-sommerpause",
+    "date": "2026-07-28",
+    "title": "Kurze Sommerpause – wir machen Urlaub",
+    "pinned": true,
+    "image": "",
+    "image_alt": "",
+    "body": "Auch die Ohana braucht mal eine Auszeit: Vom 4. bis 11. August bleibt der Laden geschlossen. Ab dem 12. August sind wir wieder wie gewohnt für euch da. Deckt euch also rechtzeitig mit euren Lieblingsliquids ein – und wer noch etwas braucht, kommt einfach vorher vorbei.\n\n(Beispiel-Beitrag – Datum und Text später frei anpassbar.)"
+  }
+]
