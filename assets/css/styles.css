@@ -428,6 +428,10 @@ p { color: var(--ink); }
 .ratio-43 { aspect-ratio: 4/3; } .ratio-11 { aspect-ratio: 1/1; } .ratio-169 { aspect-ratio: 16/9; } .ratio-32 { aspect-ratio: 3/2; }
 /* kein doppelter Rahmen, wenn Platzhalter in einem gerahmten Container liegt */
 .hero-card .photo-ph, .split-media .photo-ph, .gallery .tile .photo-ph { border: none; border-radius: 0; }
+/* echte Fotos */
+.hero-card img.media-photo, .split-media img.media-photo { width: 100%; height: 100%; object-fit: cover; display: block; }
+.logo-showcase { width: 100%; height: 100%; display: grid; place-items: center; background: #fff; padding: clamp(1.4rem, 5vw, 3rem); }
+.logo-showcase img { width: 100%; max-width: 360px; height: auto; }
 
 /* ---------- Subtle trust line ---------- */
 .trust-line { display: inline-flex; align-items: center; gap: .55rem; color: var(--muted); font-size: .9rem; }
